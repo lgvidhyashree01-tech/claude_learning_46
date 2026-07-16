@@ -1,0 +1,37 @@
+*What I learnt from this task:*
+1. AI can work without you babysitting it
+2. Ran Autonomous Agent Studio prompt in Claude
+3. Answered Claude's interview questions first
+4. Defined agent role, tools, and goals
+5. Got complete HTML application instantly
+6. Runs locally in browser. Fully private
+7. Opened it locally and ran multiple autonomous workflows
+8. Watched agents plan → execute → check → repeat
+9. Observed the agent orchestration loop in real time
+10. Saw one agent delegate to another automatically
+11. Reviewed execution history and stopping conditions
+12. Learned agents stop on success, error, or max steps
+13. Learned the difference between "assistants" vs "autonomous agents"
+14. Saw logs show every thought and action the agent took
+15. Realized this is how future software teams will work
+16. One prompt = mini AI company running on your laptop
+
+*Tools used:*
+1. Claude AI
+2. Autonomous Agent Studio prompt
+3. Set effort level to Low
+4. Used for HTML app generation
+5. Solution video
+6. Watched for orchestration and safety walkthrough
+7. Browser
+8. Open generated HTML file locally
+9. Run workflows and view execution logs
+10. Git + GitHub
+11. Created Day46 folder
+12. Created day46.md file
+13. Uploaded HTML file, screenshots, and execution logs
+14. Commit and push changes
+15. Screenshot tool
+16. Capture agent loop
+17. Capture execution history
+18. Capture stopping conditions panel
